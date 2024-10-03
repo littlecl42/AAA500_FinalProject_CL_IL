@@ -16,8 +16,8 @@ Partner(s)/Contributor(s)
 Website for partner, if available. 
 N/A
 
-Partner contact: [Carrie Little], clittle@sandiego.edu
-                 [Ian Lucas], ilucas@sandiego.edu
+Partner contact: [Carrie Little], clittle@sandiego.edu, carrie.l.little@gmail.com
+                 [Ian Lucas], ilucas@sandiego.edu,  ianlucas1@gmail.com
 
         
 A few examples are:
